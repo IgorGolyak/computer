@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="vieport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+     <p id="my_p">Люда</p>
+     <button id="my_b">Нажми!</button>
+     <button id="my_b2">Нажми2</button>
+     <button id="my_b3">Нажми3</button>
+     <button id="my_b4">Нажми4</button>
+     
+
+     <h1>Тэги</h1>
+     <h1 class="myclass">Тэги</h1>
+     <h1 class="myclass">Тэги</h1>
+     <h1>Тэги</h1>
+
+  <input value="2003" type="number" id="in1">
+  <button id="my_b5">Отправить</button>
+  <input type="text" id="in2">
+  <script src="UNI.js"></script>
+  </body>
+</html>
